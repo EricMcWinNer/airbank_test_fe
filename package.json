@@ -13,7 +13,9 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@jobinsjp/vue3-datatable": "^1.0.12",
     "vue": "^3.2.31",
+    "vue-datepicker-next": "^1.0.2",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
