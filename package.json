@@ -13,7 +13,12 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@apollo/client": "^3.5.10",
     "@jobinsjp/vue3-datatable": "^1.0.12",
+    "@vue/apollo-composable": "^4.0.0-alpha.16",
+    "graphql": "^16.3.0",
+    "graphql-tag": "^2.12.6",
+    "moment": "^2.29.1",
     "vue": "^3.2.31",
     "vue-datepicker-next": "^1.0.2",
     "vue-router": "^4.0.12"
